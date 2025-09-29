@@ -24,7 +24,7 @@ This project is a desktop application developed in Python that automatically gen
 
 1.  Clone the repository:
     ```bash
-    git clone (https://github.com/harshitpatel0000/Automatic_Quiz_Generator_with_assessment_feature.git)
+    git clone https://github.com/harshitpatel0000/Automatic_Quiz_Generator_with_assessment_feature.git
     ```
 2.  Install the required dependencies:
     ```bash
